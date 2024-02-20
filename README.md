@@ -31,8 +31,54 @@ We go to Settings and Data Inputs:
 
 ![Screenshot 2024-02-20 at 10 59 08](https://github.com/redjules/Log-analyzer/assets/106017493/80b5d72b-d56a-413e-a460-50bd96fed5bf)
 
+we click SettingsSync:
+
+![Screenshot 2024-02-20 at 12 18 07](https://github.com/redjules/Log-analyzer/assets/106017493/e2d20a63-2b8a-4c8d-8ea7-cae7a66e1743)
+
+![Screenshot 2024-02-20 at 12 18 53](https://github.com/redjules/Log-analyzer/assets/106017493/51c51884-2d2f-4fb1-9179-1aa96f6b438d)
+
+![Screenshot 2024-02-20 at 12 21 34](https://github.com/redjules/Log-analyzer/assets/106017493/7d016780-8953-48f7-bd22-640afe3588b8)
+
+![Screenshot 2024-02-20 at 12 21 55](https://github.com/redjules/Log-analyzer/assets/106017493/7eddf812-260a-4af9-a6d0-07420a2fe9b0)
+
+![Screenshot 2024-02-20 at 12 25 21](https://github.com/redjules/Log-analyzer/assets/106017493/754ff001-ad73-431f-9a98-b929bd7a1191)
+
+we go to Settings and Forwarding and receiving:
+
+![Screenshot 2024-02-20 at 12 27 40](https://github.com/redjules/Log-analyzer/assets/106017493/a566b849-5a9f-4a03-8ffb-62f78f4e87b5)
+
+![Screenshot 2024-02-20 at 12 28 02](https://github.com/redjules/Log-analyzer/assets/106017493/1ff16a0b-c9bf-4f25-a571-e4bc6706468f)
+
+![Screenshot 2024-02-20 at 12 28 37](https://github.com/redjules/Log-analyzer/assets/106017493/fbfe8d15-9eae-4f2d-9474-edb9b5ed565a)
+
+we create a new receiving port:
+
+![Screenshot 2024-02-20 at 12 29 45](https://github.com/redjules/Log-analyzer/assets/106017493/d421a10b-e9e2-41aa-9aae-f62e2acc5548)
+
+go to settings indexes:
+
+![Screenshot 2024-02-20 at 12 34 55](https://github.com/redjules/Log-analyzer/assets/106017493/2c15be71-f92d-436e-87fb-507e4490dddc)
+
+we create a Dashboard:
+
+![Screenshot 2024-02-20 at 12 36 03](https://github.com/redjules/Log-analyzer/assets/106017493/db6a8aa2-b878-4456-93e8-017925fabed5)
+
+![Screenshot 2024-02-20 at 12 38 27](https://github.com/redjules/Log-analyzer/assets/106017493/c305116f-37d5-4935-8e19-3f98ac164b64)
+
+we go to reports:
+
+![Screenshot 2024-02-20 at 12 45 53](https://github.com/redjules/Log-analyzer/assets/106017493/71eb59dd-7f48-47af-b97d-9261afb7cb8c)
+
+we will add the report to the previous Dashboard:
+
+![Screenshot 2024-02-20 at 12 47 57](https://github.com/redjules/Log-analyzer/assets/106017493/a9772800-af72-4924-9dbd-9e2f0a4735a5)
+
+we check the Health Status:
+
+![Screenshot 2024-02-20 at 12 48 47](https://github.com/redjules/Log-analyzer/assets/106017493/aff79da4-31ef-46b3-8e51-d8a21660be70)
 
 # Bonus
+
 
 Example of log (CISCO PIX log):
 
