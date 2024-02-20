@@ -1,4 +1,38 @@
-# Log analyzer for Attacks:
+# Log analyzer with Splunk
+
+
+![Screenshot 2024-02-20 at 10 41 50](https://github.com/redjules/Log-analyzer/assets/106017493/e07049db-1ba8-4739-8bd2-7de332c9f722)
+
+![Screenshot 2024-02-20 at 10 45 19](https://github.com/redjules/Log-analyzer/assets/106017493/1cf4add6-e6b1-4bcd-820d-b0e70af0dd03)
+
+![Screenshot 2024-02-20 at 10 45 48](https://github.com/redjules/Log-analyzer/assets/106017493/3bc62977-a81a-49cc-916d-a01a724ecbf9)
+
+![Screenshot 2024-02-20 at 10 47 03](https://github.com/redjules/Log-analyzer/assets/106017493/6c503712-0ca6-4922-99ad-4c96da3659df)
+
+![Screenshot 2024-02-20 at 10 48 00](https://github.com/redjules/Log-analyzer/assets/106017493/2a37dc74-57b9-49ba-bf9d-5b8751178d1a)
+
+![Screenshot 2024-02-20 at 10 48 53](https://github.com/redjules/Log-analyzer/assets/106017493/60b73dc7-a2ae-4800-a383-1cac41330863)
+
+![Screenshot 2024-02-20 at 10 49 34](https://github.com/redjules/Log-analyzer/assets/106017493/94d2d57e-5382-41c3-8d57-c94ef8cad901)
+
+![Screenshot 2024-02-20 at 10 50 24](https://github.com/redjules/Log-analyzer/assets/106017493/01add557-b2c0-4ee5-869b-dec40480fa90)
+
+we go to the Splunk website and download the right version:
+
+![Screenshot 2024-02-20 at 10 52 54](https://github.com/redjules/Log-analyzer/assets/106017493/2d1245f8-d291-430f-b202-8ab01bf1f9d7)
+
+![Screenshot 2024-02-20 at 10 57 39](https://github.com/redjules/Log-analyzer/assets/106017493/2b2f9e5c-f3c1-415a-b99d-1fb49f1bc0ea)
+
+# Demo
+
+We go to Settings and Data Inputs:
+
+![Screenshot 2024-02-20 at 10 58 33](https://github.com/redjules/Log-analyzer/assets/106017493/79d9d1a4-67ec-4da0-bc98-17df08ec304d)
+
+![Screenshot 2024-02-20 at 10 59 08](https://github.com/redjules/Log-analyzer/assets/106017493/80b5d72b-d56a-413e-a460-50bd96fed5bf)
+
+
+# Bonus
 
 Example of log (CISCO PIX log):
 
